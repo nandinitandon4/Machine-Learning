@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Machine_Learning_Project_Sentimental_Analysis_on_Movie_Reviews
 ## "Sentimental Analysis on Movie Reviews"
 The dataset is comprised of comma-separated files with phrases from the Rotten Tomatoes dataset. The train/test split has been preserved for the purposes of benchmarking, but the sentences have been shuffled from their original order. Each Sentence has been parsed into many phrases by the Stanford parser. Each phrase has a PhraseId. Each sentence has a SentenceId. Phrases that are repeated (such as short/common words) are only included once in the data.
 
